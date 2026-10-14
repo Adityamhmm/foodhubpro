@@ -1,0 +1,9 @@
+target/
+.maven-repository/
+.npm-cache/
+frontend/.npm-cache/
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+frontend/*.tsbuildinfo
+*.log
